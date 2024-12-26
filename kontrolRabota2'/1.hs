@@ -1,0 +1,1 @@
+diffInitLargestSeq l1 l2 res1 res2 = l1

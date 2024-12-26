@@ -1,0 +1,2 @@
+f_l :: Eq a => [a] -> Bool
+f_l xs = all (== head(xs)) xs
